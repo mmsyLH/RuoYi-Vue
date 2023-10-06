@@ -1,0 +1,14 @@
+# 项目排除路径
+/ruoyi-admin/target/
+/ruoyi-common/target/
+/ruoyi-framework/target/
+/ruoyi-generator/target/
+/ruoyi-quartz/target/
+/ruoyi-system/target/
+
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
